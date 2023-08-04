@@ -1,0 +1,24 @@
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\CRUD APP.exe
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\CRUD APP.deps.json
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\CRUD APP.runtimeconfig.json
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\CRUD APP.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\CRUD APP.pdb
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\CRUD APP.csproj.AssemblyReference.cache
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\CRUD_APP.Form1.resources
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\CRUD APP.csproj.GenerateResource.cache
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\CRUD APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\CRUD APP.AssemblyInfoInputs.cache
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\CRUD APP.AssemblyInfo.cs
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\CRUD APP.csproj.CoreCompileInputs.cache
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\CRUD APP.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\refint\CRUD APP.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\CRUD APP.pdb
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\CRUD APP.genruntimeconfig.cache
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\ref\CRUD APP.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\CRUD APP.csproj.CopyComplete

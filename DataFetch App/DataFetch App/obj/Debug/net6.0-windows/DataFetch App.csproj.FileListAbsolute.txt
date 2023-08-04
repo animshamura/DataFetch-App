@@ -1,0 +1,24 @@
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\DataFetch App.exe
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\DataFetch App.deps.json
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\DataFetch App.runtimeconfig.json
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\DataFetch App.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\DataFetch App.pdb
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\DataFetch App.csproj.AssemblyReference.cache
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\CRUD_APP.Form1.resources
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\DataFetch App.csproj.GenerateResource.cache
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\DataFetch App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\DataFetch App.AssemblyInfoInputs.cache
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\DataFetch App.AssemblyInfo.cs
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\DataFetch App.csproj.CoreCompileInputs.cache
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\DataFetch App.csproj.CopyComplete
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\DataFetch App.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\refint\DataFetch App.dll
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\DataFetch App.pdb
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\DataFetch App.genruntimeconfig.cache
+C:\Users\great computer\source\repos\CRUD APP\CRUD APP\obj\Debug\net6.0-windows\ref\DataFetch App.dll
